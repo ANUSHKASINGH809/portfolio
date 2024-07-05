@@ -40,7 +40,7 @@ $('html, body').animate({
 document.addEventListener('visibilitychange',
 function(){
 if(document.visibilityState === "visible"){
-document.title = "Portfolio | Shikha Chaturvedi";
+document.title = "Portfolio | Anushka Singh";
 $("#favicon").attr("href","assests/images/favicon.png");
 }
 else {
